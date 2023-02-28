@@ -9,7 +9,7 @@
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "/stream_feed"
+            "dest": "/stream_feed/"
         }
     ]
 }
